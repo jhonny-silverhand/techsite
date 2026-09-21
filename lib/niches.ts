@@ -7,7 +7,7 @@ export interface Niche {
 }
 
 export const NICHES: Niche[] = [
-  { slug: 'ai', name: 'AI', tagline: 'Models, prompts & workflows', color: '#4F7DFF', description: 'Practical AI tooling: prompts, models, agents and workflows that actually save time.' },
+  { slug: 'ai', name: 'AI Tools', tagline: 'Models, prompts & workflows', color: '#4F7DFF', description: 'Practical AI tooling: prompts, models, agents and workflows that actually save time.' },
   { slug: 'programming', name: 'Programming', tagline: 'Code that ships', color: '#10B981', description: 'Web development, debugging, architecture and engineering craft.' },
   { slug: 'android', name: 'Android', tagline: 'Master your phone', color: '#84CC16', description: 'Android tips, fixes, apps and buying advice.' },
   { slug: 'windows', name: 'Windows', tagline: 'Faster PCs', color: '#06B6D4', description: 'Windows optimization, troubleshooting and power-user guides.' },
